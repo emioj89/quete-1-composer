@@ -1,0 +1,16 @@
+{
+    "name": "33695/quetes_composer1",
+    "description": "quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\Wcs\\": "src/Wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emiliano Ostellino",
+            "email": "73698038+emioj89@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
